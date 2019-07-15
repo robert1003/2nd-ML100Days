@@ -1,0 +1,7 @@
++ [Python Graph Gallery (圖表參考)](https://python-graph-gallery.com/)
++ [R Graph Gallery](https://www.r-graph-gallery.com/)
++ [R Graph Gallery (Interactive plot, 互動圖)](https://bl.ocks.org/mbostock)
++ [D3.js](https://d3js.org/)
++ [核密度估計基礎 - 1](https://blog.csdn.net/david830_wu/article/details/66974189)
++ [核密度估計基礎 - 2](https://blog.csdn.net/unixtch/article/details/78556499)
++ [Seaborn 套件如果發生錯誤的解決辦法](https://stackoverflow.com/questions/31596125/python-dll-load-failed)
